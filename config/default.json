@@ -1,5 +1,6 @@
 {
  "port": 5000,
  "jwtSecret": "VACincoming",
- "mongoUri": "mongodb+srv://Vacincoming:a123456789@cluster0-hyekz.azure.mongodb.net/app?retryWrites=true&w=majority"
+ "mongoUri": "mongodb+srv://Vacincoming:a123456789@cluster0-hyekz.azure.mongodb.net/app?retryWrites=true&w=majority",
+ "baseUrl": "hhtp://localhost:5000"
 }
